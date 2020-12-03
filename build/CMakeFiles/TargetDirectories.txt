@@ -1,0 +1,3 @@
+/home/vishwajeet/udacity_cpp/memory_types/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/vishwajeet/udacity_cpp/memory_types/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
+/home/vishwajeet/udacity_cpp/memory_types/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
